@@ -55,7 +55,7 @@
     "imageResize": false,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "i5k61ioz7n",
+    "mbrsiteDomain": "uainkqj7m9",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -68,7 +68,7 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "cookiesAlert": false,
-    "google-analytics": "Portfolio Damian Dorsz , programista , informatyk przemysłowy",
+    "google-analytics": "",
     "robotsText": "User-agent: *\nAllow: /\nDisallow: /cgi-bin\n"
   },
   "pages": {
