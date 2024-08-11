@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Damian Dorsz",
-    "currentPage": "index.html",
+    "currentPage": "polityka_prywatnosci.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -55,7 +55,7 @@
     "imageResize": false,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "xb6wqeiugq",
+    "mbrsiteDomain": "mkomz4ybkb",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -77,7 +77,7 @@
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "100",
-      "text": "Korzystając z naszych usług, przyjmujesz do wiadomości, że używamy plików cookie i podobnych technologii do ulepszania i dostosowania treści, analizy ruchu, dostarczania reklam oraz ochrony przed spamem, złośliwym oprogramowaniem itp. <a href='privacy.html'>Więcej informacji</a>.",
+      "text": "Korzystając z naszych usług, przyjmujesz do wiadomości, że używamy plików cookie i podobnych technologii do ulepszania i dostosowania treści, analizy ruchu, dostarczania reklam oraz ochrony przed spamem, złośliwym oprogramowaniem itp. <a href='polityka_prywatnosci.html'>Więcej informacji</a>.",
       "textButton": "Akceptuj",
       "rejectText": "REJECT"
     },
